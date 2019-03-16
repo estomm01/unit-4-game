@@ -1,7 +1,30 @@
-  html  {
-    background:
-     url(https://media.giphy.com/media/HChtj3gzcVsXK/giphy.gif)no-repeat
-     center center fixed;
+  body {
+    background-image: url("../images/crystal.png");
 
-     background-size: 100%
+
+  }
+
+  .instructionContainer {
+    border: 2px solid black;
+    padding: 2%;
+    background-color: white;
+    opacity: 0.6;
+    font-family: 'Lobster', cursive, 'sans-serif';
+    color: rgb(89, 42, 165);
+
+
+  }
+
+  .header {
+    font-family:'Lobster', cursive, 'sans-serif';
+    font-size: 50px;
+    font-weight: 900;
+    color: red;
+
+  }
+
+
+  #targetNumber {
+
+    font-size: 30px;
   }
